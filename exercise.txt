@@ -1,0 +1,6 @@
+1) write a program to calculate & display area of triangle using given base & height
+2) write a program to calculate & display area of circle using given radius 
+3) write a program to convert & display ceilcius into farenheit.
+4) write a program to convert & display Rupees into dollar 
+5) write a program to convert & display bytes into KiloBytes 
+6) write a program to convert & display bytes into Megabytes 
