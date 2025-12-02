@@ -4,3 +4,33 @@
 4) write a program to convert & display Rupees into dollar 
 5) write a program to convert & display bytes into KiloBytes 
 6) write a program to convert & display bytes into Megabytes 
+
+inheritance 
+-----------------------------------------------------
+1) create class Animal that has following methods 
+    hunt
+    fight
+    all method will display suitable message 
+    
+    create class Bird that has following method 
+     fly
+     sing
+     nest
+     as well it also has method 
+     hunt 
+     fight 
+
+     do single level inheritance 
+
+2) create class Foot 
+    that has constructor to initilize instance variable inch 
+    has method to calculate and return foot 
+
+    create class Meter 
+    that has constructor to initilize instance variable inch 
+    has method to calculate and return foot 
+    has method to calculate and return meter 
+
+    do single level inheritance
+     
+
