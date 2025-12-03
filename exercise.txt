@@ -32,5 +32,15 @@ inheritance
     has method to calculate and return meter 
 
     do single level inheritance
-     
+
+3) rewrite 1st exercise create class SuperBird to create multilevel inheritance
+        Dive()
+        zoom()
+        navigate()
+
+4) rewrite 2nd exercise create class KM 
+    that has constructor to initilize instance variable inch 
+    has method to calculate and return foot 
+    has method to calculate and return meter 
+    has method to calculate and return KM
 
