@@ -21,7 +21,7 @@ class Student(Person): #child
         self.read()
         self.write()
 
-class Artiest(Person): 
+class Artist(Person): 
     def act(self):
         print("I can do acting")
     def dance(self):
@@ -40,7 +40,7 @@ s1.walk()
 s1.talk()
 
 #create artiest class object
-a1 = Artiest()
+a1 = Artist()
 a1.act()
 a1.dance()
 
