@@ -43,4 +43,6 @@ s1.talk()
 a1 = Artist()
 a1.act()
 a1.dance()
-
+a1.walk()
+a1.talk()
+a1.eat()
