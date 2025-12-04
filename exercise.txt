@@ -44,3 +44,25 @@ inheritance
     has method to calculate and return meter 
     has method to calculate and return KM
 
+5) create example of hirarchical inheritance 
+    1) create class shape 
+        method that return getSquare which returns square of given number 
+    2) create class Circle 
+        has constructor
+        method that return area of circle 
+    3) create class Cyliender 
+        has constructor 
+        method that returns volume of Cyliender
+    
+6) create example of hybrid inheritance 
+    1) create class shape 
+        method that return getSquare which returns square of given number 
+    2) create class Circle 
+        has constructor
+        method that return area of circle 
+    3) create class Cyliender 
+        has constructor 
+        method that returns volume of Cyliender
+    4) create class Sphere 
+        has constructor
+        method returns volume of sphere 
